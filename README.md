@@ -1,4 +1,3 @@
-# Project-Clone
+# Flipkart Clone Project
 
-FLIPKART CLONE 
-AUTHOR-SUBHAM MONDAL.
+
